@@ -2,8 +2,8 @@
 
 ## Deliverables
 
-- **GitHub repository:** https://github.com/<YOUR-USERNAME>/node-render-demo
-- **Live Render URL:** https://<YOUR-SERVICE>.onrender.com
+- **GitHub repository:** https://github.com/nabilhamouche/node-render-demo
+- **Live Render URL:** https://node-render-demo-ul7a.onrender.com
 - **Evidence:**
   - Screenshot 1: `npm start` in the terminal + `http://localhost:3000` showing "Hello from Render!"
   - Screenshot 2: Render dashboard showing the deploy as **Live**
